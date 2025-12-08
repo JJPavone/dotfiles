@@ -29,6 +29,7 @@ packages:
     - '1password'
     - 'arc'
     - 'betterdisplay'
+    - 'claude-code'
     - 'coconutbattery'
     - 'codewhisperer'
     - 'discord'
