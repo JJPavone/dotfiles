@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-source "~ ./dock_functions.sh"
+source "./dock_functions.sh"
 
 declare -a apps=(
     '/Applications/iTerm.app'
