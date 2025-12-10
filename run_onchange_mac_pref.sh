@@ -7,8 +7,8 @@ defaults write com.apple.dock tilesize -int 42
 echo "Moving Dock to right side of screen..."
 defaults write com.apple.dock orientation -string right
 
-echo "Removing Dock auto-hide delay..."
-defaults write com.apple.dock autohide -string true
+echo "Removing Dock auto-hide"
+defaults write com.apple.dock "autohide" -bool "true"
 
 echo "Hiding recent applications in Dock..."
 defaults write com.apple.dock show-recents -bool false
