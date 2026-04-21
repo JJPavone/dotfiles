@@ -25,6 +25,7 @@ packages:
     - 'neofetch'
     - 'speedtest-cli'
     - 'xxh'
+    - 'colima'
     casks:
     - '1password'
     - 'arc'
@@ -33,7 +34,6 @@ packages:
     - 'coconutbattery'
     - 'codewhisperer'
     - 'discord'
-    - 'docker'
     - 'font-hack-nerd-font'
     - 'hammerspoon'
     - 'iterm2'
